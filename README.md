@@ -6,13 +6,9 @@
 - 💻 I'm Governance, Risk, Compliance and Awareness Security Specialist
 - ⚡ Fun fact: I have a degree in Gastronomy
 
-## Knowledge
-### Idioms
+## Idioms
 English </p>
 Spanish
-
-### Tools
-
 
 ## Contacts
 <div>
