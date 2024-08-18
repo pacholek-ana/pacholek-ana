@@ -8,7 +8,8 @@
 
 ## Knowledge
 ### Idioms
-English, Spanish
+English </p>
+Spanish
 
 ### Tools
 
