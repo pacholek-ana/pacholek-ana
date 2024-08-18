@@ -8,11 +8,10 @@
 
 ## Knowledge
 ### Idioms
-:
+English, Spanish
 
-### Platforms
-### Data
-### Language
+### Tools
+
 
 ## Contacts
 <div>
